@@ -32,5 +32,5 @@ def search(arr, item):
     return found
 
 
-print search([5, 4, 1, 6, 2, 3, 9, 7], 2)
-print search([5, 4, 1, 6, 2, 3, 9, 7], 8)
+print(search([5, 4, 1, 6, 2, 3, 9, 7], 2))
+print(search([5, 4, 1, 6, 2, 3, 9, 7], 8))
